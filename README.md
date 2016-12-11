@@ -4,4 +4,4 @@ The following directory (project) is intended for lab assignments and solutions.
 
 # Folder Structure
    docker_files - Contains all docker files
-   |--- jenkins_docker_slave   Docker file for Docker Slave for Jenkins
+   <br>         |--- jenkins_docker_slave   Docker file for Docker Slave for Jenkins
